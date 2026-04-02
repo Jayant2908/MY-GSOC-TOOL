@@ -1,12 +1,12 @@
 {
   "student": {
-    "name": "Your Name",
+    "name": "Jayant Malvi",
     "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
-    "email": "your.email@example.com",
-    "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "avatar": "https://github.com/Jayant2908.png",
+    "github": "https://github.com/Jayant2908",
+    "email": "jayantmalvi0808@gmail.com",
+    "blog": "https://dev.to/jayant08",
+    "linkedin": "https://www.linkedin.com/in/jayant-malvi-4b9395343/"
   },
   "project": {
     "title": "Your GSoC Project Title",
@@ -14,8 +14,15 @@
     "organization": "Your Organization",
     "timeline": "May 2026 - September 2026",
     "repositories": [
-      "https://github.com/YourOrg/Repository-1",
-      "https://github.com/YourOrg/Repository-2"
+      "https://github.com/OWASP-BLT/BLT-Pool",
+      "https://github.com/OWASP-BLT/BLT",
+      "https://github.com/OWASP-BLT/BLT-Action",
+      "https://github.com/OWASP-BLT/BLT-Leaf",
+      "https://github.com/OWASP-BLT/BLT-OSSH",
+      "https://github.com/OWASP-BLT/BLT-Zero",
+      "https://github.com/OWASP-BLT/BLT-NetGuardian",
+      "https://github.com/OWASP-BLT/BLT-GSOC",
+      "https://github.com/OWASP-BLT/BLT-Ideas"
     ]
   },
   "slack": {
